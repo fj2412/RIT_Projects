@@ -1,6 +1,6 @@
 """
 Author: Feng Jiang
-CS 141 HTML Builder Project
+HTML Builder Project
 Dataclass used for building building paragraphs.
 """
 
