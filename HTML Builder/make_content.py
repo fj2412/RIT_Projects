@@ -1,6 +1,6 @@
 """
 Author: Feng Jiang
-CS 141 HTML Builder Project
+HTML Builder Project
 Making the contents from the custom format text for creating a web page
 """
 
